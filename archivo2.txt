@@ -1,2 +1,6 @@
 chanchito feliz
 chanchito feliz
+
+repositorios git
+git init: Inicia el reporsitorio como un archivo de git este comando se hace dentro de la carpeta que contiene todo el repositorio 
+ls -a: permite ver carpetas invisibles dentro de los directorios
